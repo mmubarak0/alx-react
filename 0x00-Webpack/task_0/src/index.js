@@ -1,6 +1,6 @@
 import $ from "jquery";
 
-$(document).ready(function () {
+$(function() {
     $("body")
         .append("<p>Holberton Dashboard</p>")
         .append("<p>Dashboard data for the students</p>")
